@@ -80,7 +80,7 @@ footer a:hover{
          text-decoration:underline; color: rgb(10, 194, 194);
 }
 div.video{
-    background-color: rgb(21, 173, 173); ; margin: 0px -20px 30PX -20px; padding: 20px; position: relative; padding-bottom: 110%;
+ margin: 0px -20px 30PX -20px; padding: 20px; position: relative; padding-bottom: 110%;
 }
 div.video > video{
  position: absolute; top:5% ; left:20% ;
